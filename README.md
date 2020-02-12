@@ -3,3 +3,4 @@
 
 网上资源：
 Python和数据科学： https://bookdata.readthedocs.io/en/latest/index.html
+python-data-science-cheatsheet: https://github.com/jaystone776/python-data-science-cheatsheet
