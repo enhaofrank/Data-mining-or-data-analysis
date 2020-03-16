@@ -16,4 +16,6 @@ AB test学习笔记: https://www.cnblogs.com/zichun-zeng/p/9042779.html
 https://mp.weixin.qq.com/s/lD8YELIa6A9So0x6R0K6RA  
 https://github.com/amusi/AI-Job-Resume  
 https://github.com/dyweb/awesome-resume-for-chinese  
-http://cv.ftqq.com/?fr=github#
+http://cv.ftqq.com/?fr=github#  
+
+费米问题：https://mp.weixin.qq.com/s/gEHs2MWgBFn70StSmJD2tQ
